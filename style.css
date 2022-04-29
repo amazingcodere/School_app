@@ -1,0 +1,27 @@
+nav
+{
+    position: fixed;
+}
+body
+{
+    background:rgb(209, 233, 246) ;
+    scroll-behavior: smooth;
+    
+} 
+
+#dhh
+{
+    width: 400px;
+    height: 300px;
+}
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+
+}
+.movie_head i{
+    float: right;
+}
